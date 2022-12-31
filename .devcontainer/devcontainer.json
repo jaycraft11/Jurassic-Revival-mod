@@ -1,0 +1,13 @@
+{
+  "name": "forge-1.19.2-43.2.2-mdk",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "java",
+  "extensions": [
+    "GitHub.copilot",
+    "seatonjiang.gitmoji-vscode",
+    "vscjava.vscode-java-pack",
+    "bungcip.better-toml"
+  ],
+  "workspaceFolder": "/usr/project",
+  "shutdownAction": "stopCompose"
+}
